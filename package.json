@@ -23,6 +23,7 @@
   "homepage": "https://github.com/WilliamHuang1995/spotify-smart-suggest#readme",
   "dependencies": {
     "nodemon": "^1.18.4",
-    "spotify-web-api-node": "^4.0.0"
+    "spotify-web-api-node": "^4.0.0",
+    "vue-cli": "^2.9.6"
   }
 }
