@@ -16,7 +16,7 @@ https://trello.com/b/SvSI29oR/spotify-smart-suggest
 
 ### Development
 #### Front End (frontend)
-Currently frontend is running on port 3000 (since back end forwards to 3000, can be changed), you can change behavior by modifying the config file in `config/dev.env.js`
+Currently frontend is running on port 3000 (since back end forwards to 3000, can be changed), you can change behavior by modifying the config file in `config/index.js`
 ```
 cd frontend
 npm install
